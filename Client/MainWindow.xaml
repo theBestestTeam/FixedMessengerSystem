@@ -1,0 +1,22 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Title="Messenger Window" Height="341" Width="512">
+    <Grid>
+        <TextBox Name="txtChatBox" TextWrapping="Wrap" Height="231" HorizontalAlignment="Left" Margin="11,38,0,0"  VerticalAlignment="Top" Width="479" IsReadOnly="True" VerticalScrollBarVisibility="Visible" />
+        
+        <Label x:Name="lblUserName" Content="Local Name:" Height="28" HorizontalAlignment="Left" Margin="8 ,8 ,0,0"  VerticalAlignment="Top"  />
+        <TextBox x:Name="txtUsername" Height="23" HorizontalAlignment="Left" Margin="80,8,0,0"  VerticalAlignment="Top" Width="150" />
+        <Button x:Name="btnConnectUser" Content="Connect" Height="23" HorizontalAlignment="Left" Margin="240,8,0,0"  VerticalAlignment="Top" Width="60" Click="btnConnectUser_Click" />
+        <Button x:Name="btnPauseUser" Content="Offline" Height="23" HorizontalAlignment="Left" Margin="333,8,0,0"  VerticalAlignment="Top" Width="60" Click="btnPauseUser_Click" />
+        <Button x:Name="btnQuitUser" Content="Logout" Height="23" HorizontalAlignment="Left" Margin="428,8,0,0"  VerticalAlignment="Top" Width="60" Click="btnQuitUser_Click" />
+
+        <Label x:Name="lblMessage" Content="Message:" Height="28" HorizontalAlignment="Left" Margin="5,272,0,0"  VerticalAlignment="Top" />
+        <TextBox x:Name="messageText" Height="23" HorizontalAlignment="Left" Margin="62,274,0,0"  VerticalAlignment="Top" Width="305" />
+        <Button x:Name="btnSendMessageButton" Content="Send" Height="23" HorizontalAlignment="Left" Margin="373,274,0,0" VerticalAlignment="Top" Width="117" Click="btnSendMessageButton_Click"/>
+    </Grid>
+</Window>
