@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:Client"
         mc:Ignorable="d"
         Title="Messenger Window" Height="341" Width="512">
+    
     <Grid>
         <TextBox Name="txtChatBox" TextWrapping="Wrap" Height="231" HorizontalAlignment="Left" Margin="11,38,0,0"  VerticalAlignment="Top" Width="479" IsReadOnly="True" VerticalScrollBarVisibility="Visible" />
         

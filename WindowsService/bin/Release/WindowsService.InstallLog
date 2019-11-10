@@ -1,0 +1,99 @@
+﻿Installing assembly 'C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe
+Installing service Assignment6Log...
+Creating EventLog source Assignment6Log in log Application...
+Rolling back assembly 'C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe
+Restoring event log to previous state for source Assignment6Log.
+Uninstalling assembly 'C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe
+Removing EventLog source Assignment6Log.
+Warning: The source Assignment6Log is not registered on the local machine.
+Service Assignment6Log is being removed from the system...
+Service Assignment6Log was successfully removed from the system.
+Installing assembly 'C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe
+Installing service Assignment6Log...
+Service Assignment6Log has been successfully installed.
+Creating EventLog source Assignment6Log in log Application...
+Committing assembly 'C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe
+Uninstalling assembly 'C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe
+Removing EventLog source Assignment6Log.
+Service Assignment6Log is being removed from the system...
+Service Assignment6Log was successfully removed from the system.
+Installing assembly 'C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe
+Installing service Assignment6Log...
+Service Assignment6Log has been successfully installed.
+Creating EventLog source Assignment6Log in log Application...
+Committing assembly 'C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe
+Uninstalling assembly 'C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe
+Removing EventLog source Assignment6Log.
+Service Assignment6Log is being removed from the system...
+Service Assignment6Log was successfully removed from the system.
+Installing assembly 'C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe
+Installing service Assignment6Log...
+Creating EventLog source Assignment6Log in log Application...
+Rolling back assembly 'C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe
+Restoring event log to previous state for source Assignment6Log.
+Installing assembly 'C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe
+Installing service Assignment6Log...
+Creating EventLog source Assignment6Log in log Application...
+Rolling back assembly 'C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe
+Restoring event log to previous state for source Assignment6Log.
+Uninstalling assembly 'C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe
+Removing EventLog source Assignment6Log.
+Warning: The source Assignment6Log is not registered on the local machine.
+Service Assignment6Log is being removed from the system...
+Service Assignment6Log was successfully removed from the system.

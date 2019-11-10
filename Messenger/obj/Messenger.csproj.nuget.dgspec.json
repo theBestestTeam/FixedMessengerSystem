@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\SET-F19\\Windows and Mobile Programming\\Assignment\\Assignment6\\Client\\Messenger\\Messenger.csproj": {}
+  },
+  "projects": {
+    "C:\\SET-F19\\Windows and Mobile Programming\\Assignment\\Assignment6\\Client\\Messenger\\Messenger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SET-F19\\Windows and Mobile Programming\\Assignment\\Assignment6\\Client\\Messenger\\Messenger.csproj",
+        "projectName": "Messenger",
+        "projectPath": "C:\\SET-F19\\Windows and Mobile Programming\\Assignment\\Assignment6\\Client\\Messenger\\Messenger.csproj",
+        "packagesPath": "C:\\Users\\adaya\\.nuget\\packages\\",
+        "outputPath": "C:\\SET-F19\\Windows and Mobile Programming\\Assignment\\Assignment6\\Client\\Messenger\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[16.3.2099, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[16.0.202, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

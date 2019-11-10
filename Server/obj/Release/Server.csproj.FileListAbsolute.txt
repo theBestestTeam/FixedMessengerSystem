@@ -1,0 +1,6 @@
+C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\Server\bin\Release\Server.exe.config
+C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\Server\bin\Release\Server.exe
+C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\Server\bin\Release\Server.pdb
+C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\Server\obj\Release\Server.exe
+C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\Server\obj\Release\Server.pdb
+C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\Server\obj\Release\Server.csprojAssemblyReference.cache

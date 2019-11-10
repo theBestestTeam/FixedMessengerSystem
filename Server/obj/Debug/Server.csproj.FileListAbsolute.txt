@@ -1,0 +1,5 @@
+C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\Server\bin\Debug\Server.exe.config
+C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\Server\bin\Debug\Server.exe
+C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\Server\bin\Debug\Server.pdb
+C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\Server\obj\Debug\Server.exe
+C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\Server\obj\Debug\Server.pdb

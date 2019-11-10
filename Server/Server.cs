@@ -91,7 +91,7 @@ namespace Server
             {
                 if(messagePair.Key != message.UserId)
                 {
-                    messagePair.Value.SendMessage($"[{DateTime.Now.ToString("hh:mm")}] {message.Sender.UserId}: {message.MessageQueue}");
+                    messagePair.Value.SendMessage($"[{DateTime.Now.ToString("[hh:mm]")}] {message.Sender.UserId}: {message.MessageQueue}");
                 }
             }
         }

@@ -1,0 +1,107 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe assembly's progress.
+The file is located at C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe assembly's progress.
+The file is located at C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe assembly's progress.
+The file is located at C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe assembly's progress.
+The file is located at C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe assembly's progress.
+The file is located at C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe assembly's progress.
+The file is located at C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe assembly's progress.
+The file is located at C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe assembly's progress.
+The file is located at C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe assembly's progress.
+The file is located at C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe assembly's progress.
+The file is located at C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe assembly's progress.
+The file is located at C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe assembly's progress.
+The file is located at C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe assembly's progress.
+The file is located at C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.exe assembly's progress.
+The file is located at C:\SET-F19\Windows and Mobile Programming\Assignment\Assignment6\Client\WindowsService\bin\Release\WindowsService.InstallLog.
+
+The uninstall has completed.
